@@ -52,8 +52,7 @@ st.set_page_config(
 # Title and Description
 st.title("✉️ Email Spam Detector")
 st.markdown(
-    "A simple web tool built using Streamlit and a Multinomial Naive Bayes classifier, "
-    "based on the provided Jupyter notebook project."
+    "A simple web tool built using Streamlit and a Multinomial Naive Bayes classifier."
 )
 
 if model_pipeline is None:
