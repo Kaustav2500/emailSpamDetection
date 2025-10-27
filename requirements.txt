@@ -1,0 +1,12 @@
+# Core data processing and ML libraries
+pandas
+numpy
+scikit-learn
+
+# Web application framework
+streamlit
+
+# Visualization (for EDA display)
+matplotlib
+seaborn
+wordcloud
